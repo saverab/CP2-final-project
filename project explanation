@@ -1,0 +1,8 @@
+For my final project for this CP2 class I created a search engine which I feel that I could see in a fashion app.
+I wanted for the user to be able search a term and find the most used hashtags which coorilate with the search term. 
+For example, when searching for the designer Alexander Wang popular hashtags that come up wpuld be adidas, denim,
+NewYorkFashionWeek, and BellaHadid. 
+I created this project by taking information from the twitter API, I then loaded on the screen a few examples that began
+with hashtags that were used in tweets with the mentioned key words. I then simplified the viewing processes by only displaying
+one hashtag at a time and making the more mentioned tags apear larger. I also added a search bar to make it more interactive for
+the users. 
